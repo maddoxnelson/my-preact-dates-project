@@ -4,7 +4,7 @@ I'm somewhat new to React and Preact. I really want to use React Dates in a Prea
 app, but I'm repeatedly getting some errors on build (although it works fine in production).
 The errors aren't showstoppers, but I can't figure out how to make them go away.
 
-I generated the app using (Preact Cli)[https://github.com/developit/preact-cli], if that helps.
+I generated the app using [Preact Cli](https://github.com/developit/preact-cli), if that helps.
 
 I'm creating this little repo to hopefully get some help from the cool folks at
 airbnb react-dates.
